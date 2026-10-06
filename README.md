@@ -7,3 +7,6 @@ Welcome to my personal developer portfolio repository. I am Abhishek Maurya, cur
 
 ### Areas of Interest
 - **Specializations:** Systems software, low-level memory architectures, and algorithmic complexity optimization.
+
+### Semester Goal
+- **Milestone:** Build a verified GitHub portfolio, complete competitive algorithmic milestones, and prepare for Summer 2027 software engineering internships.
