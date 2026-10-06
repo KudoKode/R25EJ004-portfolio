@@ -16,3 +16,13 @@ Welcome to my personal developer portfolio repository. I am Abhishek Maurya, cur
 - **[HackerRank Algorithmic Portfolio](https://github.com/KudoKode/HackerRank-3rdSem-Portfolio):** Curated solutions for 5 fundamental challenges with Big-O complexity matrices (3-Star Badge).
 - **[LeetCode Practice Suite](https://github.com/KudoKode/leetcode-solutions):** Documented solutions across arrays, strings, basic algorithms, and stacks with local assertion suites.
 - **[Portfolio Blog Website](https://kudokode.github.io):** Responsive personal portfolio deployed on GitHub Pages.
+
+## Collaboration Log (Activity 5)
+- **Pair Partner:** Arun H Kalamuddi ([@hkarun311-source](https://github.com/hkarun311-source))
+- **Artifact Built:** Developed and tested the modular `greet()` function in `hello.c` over an active VS Code Live Share collaboration session, swapping driver and navigator roles.
+- **Key Tooling Insight:** Live Share allowed real-time co-debugging without input lag, while GitLens line-by-line blame clearly differentiated original base lines from new collaborative commits.
+
+## Activity 5 Reflection Responses
+1. **GitLens Line Blame View:** GitLens eliminates authorship ambiguity by attaching the originating commit message, author name, and commit hash directly to the end of each line, enabling fast root-cause identification when reviewing partner contributions.
+2. **Live Share vs In-Person Pairing:** Live Share enables independent file navigation, cursor tracking, and shared terminal execution without screen lock, though it lacks direct physical whiteboard drawing and depends on stable network connectivity.
+3. **Value of Collaborative Commits to Employers:** Collaborative commits demonstrate real-world engineering readiness—proving that the candidate can review pull requests, navigate shared codebases, resolve merge conflicts, and follow collective code standards.
