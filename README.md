@@ -4,3 +4,6 @@ Welcome to my personal developer portfolio repository. I am Abhishek Maurya, cur
 
 ### Technical Skills
 - **Core Languages:** C / C++ with MinGW-w64 toolchain and Python 3.
+
+### Areas of Interest
+- **Specializations:** Systems software, low-level memory architectures, and algorithmic complexity optimization.
